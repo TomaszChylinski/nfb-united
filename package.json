@@ -1,0 +1,19 @@
+{
+  "name": "nbu-united",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomaszChylinski/nbu-united.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomaszChylinski/nbu-united/issues"
+  },
+  "homepage": "https://github.com/TomaszChylinski/nbu-united#readme"
+}
